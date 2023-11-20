@@ -13,10 +13,15 @@ As a concluding step, we evaluated various classification models and contrasted 
 
 # Models used in this project
 Logistic Regression
+
 K-Nearest Neighbour (KNN)
+
 Support Vector Machine (SVM)
+
 Decision Tree
+
 Random Forest
+
 Voting Classifier
 
 # Conclusion
