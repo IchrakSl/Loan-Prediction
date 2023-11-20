@@ -1,7 +1,7 @@
 # Loan-Prediction
 As part of my "Supervised Learning" class, I worked on the Loan_data_set from kaggle to help determine if a customer is eligible for a loan or not.
 
-# DATA-Analysis
+# Data-Analysis
 In the data analysis phase of the project, we examined both categorical and numerical features, investigating their distributions and exploring the relationships between them.
 
 # Data-Preprocessing
